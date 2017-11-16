@@ -1,0 +1,22 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #2f109f;
+	font-size: 75%;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffff00;
+}
